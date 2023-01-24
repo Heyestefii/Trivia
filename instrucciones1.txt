@@ -1,0 +1,25 @@
+Agregar Pregunta
+	Ingresar pregunta ejemplo :
+	Cuantos perros tiene Robin?
+
+Agregar Respuesta 1
+	Ingresar respuesta ejemplo :
+	1. Dos
+
+Agregar Respuesta 2
+	Ingresar respuesta ejemplo :
+	2. Diez
+
+Agregar Respuesta 3
+	Ingresar respuesta ejemplo :
+	3. Seis
+
+Agregar Valor de Respuesta
+	Ingresar valor de respuesta ejemplo :
+	3
+
+Al terminar, en el codigo fuente actualizar en el ciclo for (i = 0; i < 31; i++)
+31 cambiara por el numero actual de preguntas 
+Y la condicion (if i == 30)
+30 cambiara por el numero actual de preguntas menos uno
+

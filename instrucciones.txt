@@ -1,0 +1,8 @@
+Instrucciones : 
+El jugador debe leer la pregunta e ingresar la opcion correcta. 
+Si acierta suma un punto a las preguntas correctas. 
+Si no acierta suma un punto a las preguntas incorrectas. 
+El limite de preguntas incorrectas es 5. 
+Si el jugador supera el limite, perdera la partida. 
+Si no supera el limite, ganara la partida.
+
